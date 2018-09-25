@@ -6,7 +6,7 @@
 平均时间复杂度为O(n^2).
 */
 
-var arr = new Array(12,23,56,43,98,76);
+var arr = new Array(49,38,65,97,76,13,27,49,55,04);
 alert(arr);
 var length = arr.length;
 for (var i = 0;i < length;i++){

@@ -8,7 +8,7 @@
     第六步:直到内循环全部交换完毕,回到第二步.
     平均时间复杂度为O(n^2).
 */
-var arr = new Array(22,12,23,56,43,98,76);
+var arr = new Array(49,38,65,97,76,13,27,49,55,04);
 var observer;
 for (let i = 1;i < arr.length;i++){
     observer = arr[i];
